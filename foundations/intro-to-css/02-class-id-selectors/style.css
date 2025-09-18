@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.uncoolClass{
+    background-color: rgb(255, 168 , 181);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.uncoolClass.cooler{
+    font-size: 24px;
+}
+#divID1{
+    color: aqua;
+    font-size: 36px;
+}
+#divID2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
